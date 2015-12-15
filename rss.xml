@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Murphy - Beach Gallery]]></title>
+        <description><![CDATA[Murphy - Beach Gallery]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Dec 2015 02:00:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Post]]></title>
+            <description><![CDATA[<article><h1>New Post</h1><p>Here's an intro to my new site. I hope to write more and post my current crop of photo's up here.</p></article>]]></description>
+            <link>undefinednew-post/index.html</link>
+            <guid isPermaLink="false">20ce8f42-2e84-4f64-bf96-39f104eaf1b6</guid>
+            <pubDate>Tue, 15 Dec 2015 02:00:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
